@@ -1,6 +1,6 @@
 {
   "name": "graphql-subgraph",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "private": true,
   "scripts": {
@@ -28,7 +28,7 @@
     "@apollo/subgraph": "^2.0.5",
     "@graphql-tools/load-files": "^6.6.0",
     "@graphql-tools/schema": "^8.5.0",
-    "@graphql-yoga/node": "^2.9.2",
+    "@graphql-yoga/node": "^3.0.0",
     "graphql": "^16.5.0",
     "graphql-yoga": "^2.9.2"
   },
